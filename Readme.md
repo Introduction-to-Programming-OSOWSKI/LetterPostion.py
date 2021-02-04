@@ -1,16 +1,28 @@
-# **Assignment Title**  
+# **Letter Position**  
 
 ## **Assignment Description**  
-
+Create a function called letterPos() that returns the position of a given letter letter in a given word w. If there are two instances of the letter in the word, return the first instance.
 
 ## **Examples**  
->
+>letterPos("rat", "r")  
+1  
+
+>letterPos("sunshine", "n")  
+3  
+
 
 ## **Limitations**  
+1 function  
+1 for loop  
+1 if  
+1 else  
 
 ## **Hints**  
+w[0] returns the first letter of w.  
+len(w) returns the length of w.
 
 ## **Concepts**  
+Unit 1, Unit 2, for loops, lists  
 
 ---
 
